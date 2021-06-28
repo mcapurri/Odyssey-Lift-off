@@ -1,4 +1,4 @@
-# Odyssey Lift-off Part 3
+# Odyssey Lift-off
 
 Welcome to the companion app of Odyssey Lift-off Part 3! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/odyssey-lift-off-part3), Apollo's learning platform.
 
